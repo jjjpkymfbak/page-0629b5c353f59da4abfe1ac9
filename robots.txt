@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--pss620c1ga733j.com/sitemap.xml
